@@ -1,0 +1,101 @@
+ticket_id,created_at,customer_name,customer_segment,monthly_revenue_usd,country,product,ticket_subject,ticket_body,status,resolution_time_hours,csat_score
+TKT-2001,2026-07-02 13:10,Cobalt Robotics,Mid-Market,10100,Canada,Account,User permissions,How do I give our bookkeeper view-only access without letting them send payments?,resolved,2.6,5
+TKT-2095,2026-07-03 10:55,Crescent Apparel,SMB,890,Canada,FX,FX availability,Can we convert CAD to USD outside regular business hours?,resolved,11.1,3
+TKT-2007,2026-07-03 16:40,Driftwood Design,SMB,600,United States,Cards,New employee card,We hired someone new. What is the fastest way to issue them a virtual card?,resolved,1.7,5
+TKT-2035,2026-07-04 10:00,TrueNorth Travel,Mid-Market,5200,Canada,Payments,Vendor payment,Can I schedule a supplier payment for next Friday?,resolved,4.3,4
+TKT-2013,2026-07-04 12:00,Maple Ridge Imports,Mid-Market,4500,Canada,Cards,Receipt question,Is there a way to attach receipts to card transactions in the dashboard?,resolved,8.1,3
+TKT-2045,2026-07-05 10:50,MetricFox,SMB,1250,United States,Payments,Transfer ETA,We sent a domestic payment this morning. What is the normal processing time?,resolved,8.7,3
+TKT-2032,2026-07-05 17:10,TrueNorth Travel,Mid-Market,5200,Canada,Cards,Receipt question,Is there a way to attach receipts to card transactions in the dashboard?,resolved,3.1,5
+TKT-2099,2026-07-06 12:25,KiteWorks Studio,SMB,690,Canada,Cards,New employee card,We hired someone new. What is the fastest way to issue them a virtual card?,resolved,7.8,5
+TKT-2038,2026-07-07 09:50,Mosaic Dental,SMB,850,Canada,Cards,Card limit,How do I change the monthly spend limit for one employee card?,resolved,10.0,2
+TKT-2006,2026-07-07 10:30,Beacon Legal,SMB,980,Canada,Cards,Receipt question,Is there a way to attach receipts to card transactions in the dashboard?,resolved,1.4,5
+TKT-2034,2026-07-07 15:20,Cedar & Co,SMB,420,Canada,Account,User permissions,How do I give our bookkeeper view-only access without letting them send payments?,resolved,4.5,5
+TKT-2020,2026-07-08 17:20,Maple Ridge Imports,Mid-Market,4500,Canada,Payments,Vendor payment,Can I schedule a supplier payment for next Friday?,resolved,7.8,3
+TKT-2033,2026-07-09 16:10,Cedar & Co,SMB,420,Canada,Cards,Card limit,How do I change the monthly spend limit for one employee card?,resolved,8.0,3
+TKT-2094,2026-07-11 11:15,Driftwood Design,SMB,600,United States,Payments,Vendor payment,Can I schedule a supplier payment for next Friday?,resolved,11.7,2
+TKT-2040,2026-07-11 15:00,Crescent Apparel,SMB,890,Canada,Account,Beneficiary question,Can I save a beneficiary for future payments or do I need to add the details each time?,resolved,9.9,3
+TKT-2005,2026-07-11 15:20,Copperline Construction,Mid-Market,6400,Canada,Account,Beneficiary question,Can I save a beneficiary for future payments or do I need to add the details each time?,resolved,3.1,4
+TKT-2039,2026-07-11 15:30,MetricFox,SMB,1250,United States,Payments,Payment confirmation,Can you send me proof that the payment was completed? Our vendor is asking for it.,resolved,5.1,5
+TKT-2087,2026-07-12 09:40,Cedar & Co,SMB,420,Canada,Account,Verification still pending,We uploaded the requested business documents four days ago. The dashboard still says verification pending.,resolved,33.2,1
+TKT-2028,2026-07-13 13:30,Cedar & Co,SMB,420,Canada,Cards,Card limit,How do I change the monthly spend limit for one employee card?,resolved,10.0,4
+TKT-2014,2026-07-14 14:10,Wavefront Media,SMB,1650,United States,Account,User permissions,How do I give our bookkeeper view-only access without letting them send payments?,resolved,6.7,5
+TKT-2009,2026-07-15 13:00,Harbor & Pine,SMB,780,Canada,Account,Bank details,Where do I find our USD account details to send to a customer?,resolved,8.6,2
+TKT-2003,2026-07-15 17:40,MetricFox,SMB,1250,United States,Payments,Payment confirmation,Can you send me proof that the payment was completed? Our vendor is asking for it.,resolved,0.8,4
+TKT-2046,2026-07-16 09:40,BrightPath Health,Mid-Market,5400,Canada,Payments,Cancel transfer,A vendor gave us the wrong account number. Can this payment still be cancelled?,resolved,1.3,5
+TKT-2098,2026-07-16 11:05,Bluebird Retail,SMB,1120,Canada,Cards,New employee card,We hired someone new. What is the fastest way to issue them a virtual card?,resolved,8.1,3
+TKT-2036,2026-07-16 12:10,Copperline Construction,Mid-Market,6400,Canada,Account,User permissions,How do I give our bookkeeper view-only access without letting them send payments?,resolved,5.6,4
+TKT-2088,2026-07-17 10:40,Bluebird Retail,SMB,1120,Canada,Payments,Vendor payment returned,A supplier payment was returned but we cannot tell why. Can you explain the return reason?,resolved,52.9,2
+TKT-2096,2026-07-17 12:15,Copperline Construction,Mid-Market,6400,Canada,Account,Bank details,Where do I find our USD account details to send to a customer?,resolved,9.5,2
+TKT-2048,2026-07-17 15:10,KiteWorks Studio,SMB,690,Canada,Payments,Payment confirmation,Can you send me proof that the payment was completed? Our vendor is asking for it.,resolved,6.9,4
+TKT-2016,2026-07-17 15:40,Lumen Events,SMB,510,Canada,Cards,Card limit,How do I change the monthly spend limit for one employee card?,resolved,4.3,4
+TKT-2022,2026-07-17 17:10,Crescent Apparel,SMB,890,Canada,Payments,Vendor payment,Can I schedule a supplier payment for next Friday?,resolved,5.3,3
+TKT-2037,2026-07-18 16:10,NovaFleet,Mid-Market,9200,United States,Payments,Transfer ETA,We sent a domestic payment this morning. What is the normal processing time?,resolved,8.8,2
+TKT-2008,2026-07-19 14:40,MetricFox,SMB,1250,United States,Cards,Card limit,How do I change the monthly spend limit for one employee card?,resolved,2.3,4
+TKT-2041,2026-07-19 15:50,Arcadia Foods,Mid-Market,6100,United States,Account,Statement download,Where can I download last month's account statement as a PDF?,resolved,9.6,4
+TKT-2049,2026-07-20 10:00,Northstar Logistics,Mid-Market,6200,Canada,FX,Exchange rate,The USD rate in the app is noticeably worse than what I see online. Can someone explain the difference?,resolved,20.2,1
+TKT-2023,2026-07-20 17:40,TrueNorth Travel,Mid-Market,5200,Canada,Account,Bank details,Where do I find our USD account details to send to a customer?,resolved,2.4,5
+TKT-2050,2026-07-22 11:00,MetricFox,SMB,1250,United States,FX,Exchange rate,We converted about $75k CAD to USD and the rate looks expensive. What spread are we paying?,resolved,20.2,1
+TKT-2089,2026-07-22 11:40,Lumen Events,SMB,510,Canada,Cards,Replacement card,My replacement card was supposed to arrive last week. Tracking has not updated.,resolved,54.5,1
+TKT-2100,2026-07-23 08:05,Maple Ridge Imports,Mid-Market,4500,Canada,Cards,Card limit,How do I change the monthly spend limit for one employee card?,resolved,10.6,3
+TKT-2051,2026-07-24 12:00,Atlas Commerce,Mid-Market,7100,Canada,FX,FX rate question,Why is my exchange rate different from Google? I need to understand the fees before our next conversion.,resolved,21.7,2
+TKT-2025,2026-07-24 13:10,Northstar Logistics,Mid-Market,6200,Canada,Account,User permissions,How do I give our bookkeeper view-only access without letting them send payments?,resolved,1.1,5
+TKT-2012,2026-07-25 13:50,Atlas Commerce,Mid-Market,7100,Canada,Account,Statement download,Where can I download last month's account statement as a PDF?,resolved,7.0,2
+TKT-2052,2026-07-26 13:00,Wavefront Media,SMB,1650,United States,FX,FX rate question,Our finance team thinks the FX pricing changed. The rate this week looks worse than last month.,resolved,28.8,1
+TKT-2090,2026-07-27 12:40,Evergreen Property Group,Mid-Market,5700,Canada,Account,Statement mismatch,The opening balance on our July statement does not match the closing balance on June. Can someone review this?,resolved,48.1,1
+TKT-2021,2026-07-28 11:30,BrightPath Health,Mid-Market,5400,Canada,Cards,New employee card,We hired someone new. What is the fastest way to issue them a virtual card?,resolved,0.5,5
+TKT-2053,2026-07-28 14:00,Summit Supply,Mid-Market,8300,Canada,FX,Pricing question,We do a lot of USD purchases and the current conversion rate is becoming hard to justify. Can you review it?,resolved,18.7,2
+TKT-2054,2026-07-30 10:00,NovaFleet,Mid-Market,9200,United States,FX,Exchange rate,The USD rate in the app is noticeably worse than what I see online. Can someone explain the difference?,resolved,27.0,2
+TKT-2015,2026-07-30 11:20,Crescent Apparel,SMB,890,Canada,Account,Bank details,Where do I find our USD account details to send to a customer?,resolved,1.8,5
+TKT-2010,2026-07-30 14:10,Summit Supply,Mid-Market,8300,Canada,Cards,New employee card,We hired someone new. What is the fastest way to issue them a virtual card?,resolved,4.0,4
+TKT-2017,2026-08-01 10:00,Juniper Labs,SMB,960,United States,Cards,Card limit,How do I change the monthly spend limit for one employee card?,resolved,8.7,2
+TKT-2026,2026-08-01 10:40,MetricFox,SMB,1250,United States,Account,User permissions,How do I give our bookkeeper view-only access without letting them send payments?,resolved,7.8,2
+TKT-2055,2026-08-01 11:00,Orbit Manufacturing,Mid-Market,6800,Canada,FX,Exchange rate,We converted about $75k CAD to USD and the rate looks expensive. What spread are we paying?,resolved,24.0,2
+TKT-2042,2026-08-01 11:10,Maple Ridge Imports,Mid-Market,4500,Canada,Payments,Vendor payment,Can I schedule a supplier payment for next Friday?,resolved,3.3,3
+TKT-2097,2026-08-01 11:15,Summit Supply,Mid-Market,8300,Canada,Account,Beneficiary question,Can I save a beneficiary for future payments or do I need to add the details each time?,resolved,9.9,3
+TKT-2091,2026-08-01 13:40,Crescent Apparel,SMB,890,Canada,Payments,Payment status unclear,"The dashboard says processing, but our supplier says they received the payment. Which status is correct?",resolved,42.9,1
+TKT-2086,2026-08-02 13:10,MetricFox,SMB,1250,United States,FX,FX rate follow up,Following up on my exchange-rate question. I still do not understand why the rate is so far from the market rate.,resolved,16.0,2
+TKT-2044,2026-08-02 17:10,Fieldstone Energy,Mid-Market,7600,Canada,Account,Statement download,Where can I download last month's account statement as a PDF?,resolved,1.0,5
+TKT-2056,2026-08-03 12:00,Cobalt Robotics,Mid-Market,10100,Canada,FX,Rate seems high,Why is my exchange rate different from Google? I need to understand the fees before our next conversion.,resolved,28.9,2
+TKT-2019,2026-08-03 13:40,Driftwood Design,SMB,600,United States,Account,Statement download,Where can I download last month's account statement as a PDF?,resolved,8.7,2
+TKT-2047,2026-08-03 14:20,Fieldstone Energy,Mid-Market,7600,Canada,Payments,Cancel transfer,A vendor gave us the wrong account number. Can this payment still be cancelled?,resolved,2.4,5
+TKT-2029,2026-08-03 16:00,Bluebird Retail,SMB,1120,Canada,Account,Statement download,Where can I download last month's account statement as a PDF?,resolved,2.9,4
+TKT-2059,2026-08-04 08:30,Northstar Logistics,Mid-Market,6200,Canada,Cards,Card keeps declining,Tried the card three times at AWS and it keeps declining. There is definitely money in the account.,resolved,34.8,1
+TKT-2069,2026-08-04 08:40,Wavefront Media,SMB,1650,United States,Cards,Card not working,My card was declined for Dropbox and then again at AWS within an hour.,resolved,37.2,1
+TKT-2043,2026-08-04 09:50,Fieldstone Energy,Mid-Market,7600,Canada,Payments,Vendor payment,Can I schedule a supplier payment for next Friday?,resolved,3.5,3
+TKT-2002,2026-08-04 10:40,BrightPath Health,Mid-Market,5400,Canada,Account,Bank details,Where do I find our USD account details to send to a customer?,resolved,4.5,3
+TKT-2004,2026-08-04 15:10,Foundry AI,SMB,2200,United States,Account,Bank details,Where do I find our USD account details to send to a customer?,resolved,4.8,4
+TKT-2060,2026-08-04 15:43,BrightPath Health,Mid-Market,5400,Canada,Cards,Employee cards failing,Two employee cards were declined this morning for online software subscriptions. They worked yesterday.,resolved,21.6,3
+TKT-2070,2026-08-04 15:53,Fieldstone Energy,Mid-Market,7600,Canada,Cards,Subscription payment failed,Our recurring cloud software payment failed today and the card has enough available balance.,resolved,14.1,1
+TKT-2024,2026-08-04 17:00,Beacon Legal,SMB,980,Canada,Payments,Transfer ETA,We sent a domestic payment this morning. What is the normal processing time?,resolved,6.2,5
+TKT-2061,2026-08-04 22:56,Atlas Commerce,Mid-Market,7100,Canada,Cards,Cards not working,Our corporate cards are suddenly failing at Google Ads. Nothing changed on our side.,resolved,19.9,2
+TKT-2062,2026-08-05 06:09,Summit Supply,Mid-Market,8300,Canada,Cards,Declines this morning,Three of our cards were declined at Shopify and AWS this morning. Can you check urgently?,resolved,19.7,2
+TKT-2083,2026-08-05 10:20,NovaFleet,Mid-Market,9200,United States,Cards,Following up,Following up on ticket about our employee cards failing online. They are still being declined at AWS and Google Ads.,resolved,18.5,1
+TKT-2027,2026-08-05 11:20,Maple Ridge Imports,Mid-Market,4500,Canada,Account,Statement download,Where can I download last month's account statement as a PDF?,resolved,5.5,5
+TKT-2057,2026-08-05 13:00,Foundry AI,SMB,2200,United States,FX,Exchange rate,Our finance team thinks the FX pricing changed. The rate this week looks worse than last month.,pending,,
+TKT-2063,2026-08-05 13:22,NovaFleet,Mid-Market,9200,United States,Cards,All cards stopped working,All 7 employee cards stopped working this morning for online purchases. Physical purchases seem okay.,open,,
+TKT-2084,2026-08-05 14:40,NovaFleet,Mid-Market,9200,United States,Cards,Still broken,Same issue as earlier today: online card payments are still failing across our team. Any update?,resolved,9.0,1
+TKT-2064,2026-08-05 19:35,Orbit Manufacturing,Mid-Market,6800,Canada,Cards,Online card decline,Card works in person but was declined twice for our cloud hosting bill.,resolved,28.2,2
+TKT-2065,2026-08-06 02:48,Cobalt Robotics,Mid-Market,10100,Canada,Cards,Help with card,Our main card is being rejected by Azure. We need this fixed before services are interrupted.,open,,
+TKT-2066,2026-08-06 10:01,Beacon Legal,SMB,980,Canada,Cards,Payment declined,A recurring software charge that has worked for months was declined today.,resolved,39.3,1
+TKT-2092,2026-08-06 14:40,Harbor & Pine,SMB,780,Canada,Cards,Refund missing,A merchant says they refunded our card eight days ago but I still do not see the credit.,resolved,67.8,1
+TKT-2067,2026-08-06 17:14,PixelMint,SMB,1380,United States,Cards,Card issue,Our marketing card keeps failing for Meta ads today. It worked yesterday.,resolved,16.6,2
+TKT-2068,2026-08-07 00:27,Arcadia Foods,Mid-Market,6100,United States,Cards,Urgent card issue,Several online card payments are failing across the team. Is there an outage?,open,,
+TKT-2058,2026-08-07 14:00,TrueNorth Travel,Mid-Market,5200,Canada,FX,Exchange rate,We do a lot of USD purchases and the current conversion rate is becoming hard to justify. Can you review it?,pending,,
+TKT-2030,2026-08-07 17:10,KiteWorks Studio,SMB,690,Canada,Account,Beneficiary question,Can I save a beneficiary for future payments or do I need to add the details each time?,resolved,6.1,3
+TKT-2071,2026-08-08 09:15,NovaFleet,Mid-Market,9200,United States,Payments,USD transfer missing,"A customer sent us $42,000 USD yesterday and it still is not showing. We need to pay a supplier today.",pending,,
+TKT-2072,2026-08-08 20:15,Cobalt Robotics,Mid-Market,10100,Canada,Payments,Incoming wire not received,We are expecting a $118k USD wire from a customer. Sender says it was delivered yesterday but it is not in our account.,open,,
+TKT-2073,2026-08-09 07:15,Summit Supply,Mid-Market,8300,Canada,Payments,Where is our wire?,A $64k incoming USD wire has been missing since Friday. This is blocking a large inventory payment.,resolved,42.3,2
+TKT-2085,2026-08-09 15:05,Cobalt Robotics,Mid-Market,10100,Canada,Payments,Re: incoming wire,Following up again on the $118k incoming USD wire. We still cannot see the funds and this is now affecting payroll.,open,,
+TKT-2074,2026-08-09 18:15,Fieldstone Energy,Mid-Market,7600,Canada,Payments,USD payment delayed,"Our client sent $31,500 USD and we still do not see it. Payroll funding depends on this arriving.",open,,
+TKT-2075,2026-08-10 05:15,Atlas Commerce,Mid-Market,7100,Canada,Payments,Incoming USD not showing,We have confirmation from the sender bank that the USD wire was sent. It has been more than 24 hours.,resolved,25.7,2
+TKT-2031,2026-08-10 09:10,MetricFox,SMB,1250,United States,Payments,Vendor payment,Can I schedule a supplier payment for next Friday?,resolved,1.1,4
+TKT-2079,2026-08-10 11:00,KiteWorks Studio,SMB,690,Canada,Account,Quick question,There is a new admin user on our account named Daniel that nobody here recognizes. Can you tell me when this user was added?,open,,
+TKT-2076,2026-08-10 16:15,Orbit Manufacturing,Mid-Market,6800,Canada,Payments,Wire delay,Can you trace an incoming USD wire for $87k? We expected it yesterday morning.,resolved,39.3,2
+TKT-2080,2026-08-10 20:00,Mosaic Dental,SMB,850,Canada,Account,Login help,Our controller left the company yesterday and still appears to have access. How do I remove them immediately?,resolved,1.2,5
+TKT-2077,2026-08-11 03:15,Copperline Construction,Mid-Market,6400,Canada,Payments,Urgent transfer,Incoming USD funds are not in the account yet. We need them for a supplier payment this afternoon.,pending,,
+TKT-2081,2026-08-11 05:00,Maple Ridge Imports,Mid-Market,4500,Canada,Account,Account issue,The dashboard says our account is restricted. We have payroll going out tomorrow morning and need to understand what is required.,pending,,
+TKT-2082,2026-08-11 14:00,Juniper Labs,SMB,960,United States,Cards,Card question,"I see a $4,850 card transaction from a merchant we do not recognize. None of our employees say they made it.",resolved,3.4,4
+TKT-2078,2026-08-11 14:15,TrueNorth Travel,Mid-Market,5200,Canada,Payments,Customer payment missing,A US customer says they wired us funds on Monday. Nothing is showing on our side yet.,resolved,39.6,1
+TKT-2093,2026-08-13 09:25,Maple Ridge Imports,Mid-Market,4500,Canada,Payments,Payment confirmation,Can you send me proof that the payment was completed? Our vendor is asking for it.,resolved,9.4,3
+TKT-2011,2026-08-13 10:40,Maple Ridge Imports,Mid-Market,4500,Canada,Cards,New employee card,We hired someone new. What is the fastest way to issue them a virtual card?,resolved,6.5,4
+TKT-2018,2026-08-13 15:40,Cobalt Robotics,Mid-Market,10100,Canada,Payments,Transfer ETA,We sent a domestic payment this morning. What is the normal processing time?,resolved,1.1,5
